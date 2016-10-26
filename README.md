@@ -6,14 +6,15 @@ Demonstrate the use of README files to link to external content
 ## Very useful examples
 
 ### Log management
-[eGym Java Log management example](https://github.com/egymgmbh/log-queue)
+
+- [eGym Java Log management example](https://github.com/egymgmbh/log-queue)
 
 
 ### HealthChecks
 
-[Runscope Python HealthCheck example](https://github.com/Runscope/healthcheck)
-[Broadly NodeJS HealthCheck example](https://github.com/broadly/node-healthchecks)
-[SportsEngine Ruby on Rails HealthCheck example](https://github.com/sportngin/okcomputer)
+- [Runscope Python HealthCheck example](https://github.com/Runscope/healthcheck)
+- [Broadly NodeJS HealthCheck example](https://github.com/broadly/node-healthchecks)
+- [SportsEngine Ruby on Rails HealthCheck example](https://github.com/sportngin/okcomputer)
 
 ## Pros
 
